@@ -3,7 +3,7 @@ This is a code repository accompanying the manuscript "Hollowed or redefined? Ch
 
 Version history:
 
-  tqdm - 4.64.0
-  pyMorfologik - 0.2.2
-  pandas - 1.4.2
-  bs4 - 0.0.1
+  tqdm - 4.64.0  
+  pyMorfologik - 0.2.2  
+  pandas - 1.4.2  
+  bs4 - 0.0.1  
